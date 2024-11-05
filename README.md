@@ -1,1 +1,1 @@
-This will contain all the Javascript Projects
+This will contain all the projects made by using HTML, CSS and JavaScript.
